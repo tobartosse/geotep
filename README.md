@@ -19,7 +19,7 @@ comparisons based on the samples. Follow the next steps in order.
 
 To run this program run in the terminal
 
-%./geotep.py
+%python geotep.py
 
 Read the messages shown in the terminal and follow the steps in order
 
