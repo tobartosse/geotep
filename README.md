@@ -1,5 +1,5 @@
 # GEOTEP
-GEO TARGET EXPRESSION PROFILE (GEOTEP)"\n"
+GEO TARGET EXPRESSION PROFILE (GEOTEP)
 Created by 
 Fabian Tobar-Tosse
 ftobar@javerianacali.edu.co
