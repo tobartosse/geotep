@@ -1,9 +1,13 @@
 # GEOTEP
 GEO TARGET EXPRESSION PROFILE (GEOTEP)
+
 Created by 
+
 Fabian Tobar-Tosse
+
 ftobar@javerianacali.edu.co
-Pontifica Universidad Javeriana Cali
+
+Pontificia Universidad Javeriana Cali
 
 This program extracts expression profiles of specific genes from expression 
 studies in the GEO database. Its main objective is to identify genes that 
